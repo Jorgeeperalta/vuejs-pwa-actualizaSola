@@ -15,7 +15,7 @@
           href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel"
           target="_blank"
           rel="noopener"
-          >Esto es lo nuevo 2.1</a
+          >Esto es lo nuevo 2.2</a
         >
       </li>
       <li>
