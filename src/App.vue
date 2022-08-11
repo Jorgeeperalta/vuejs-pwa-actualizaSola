@@ -18,7 +18,7 @@
           class="update-dialog__button update-dialog__button--cancel"
           @click="prompt = false"
         >
-          Cancel
+          Algo nuevo
         </button>
       </div>
     </div>
